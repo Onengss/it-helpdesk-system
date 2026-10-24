@@ -4,6 +4,23 @@ A full-stack IT support ticket management application built with React, FastAPI,
 
 The project demonstrates REST API development, database integration, frontend development, CRUD operations, automated API testing, and practical IT support workflows.
 
+## Application Screenshots
+
+### Dashboard
+
+![IT Helpdesk Dashboard](docs/screenshots/dashboard.png)
+
+### Ticket Management
+
+![Ticket Management](docs/screenshots/tickets.png)
+
+### Create Ticket
+
+![Create Ticket Form](docs/screenshots/create-ticket.png)
+
+### Ticket Details
+
+![Ticket Details](docs/screenshots/ticket-details.png)
 ## Features
 
 - Dashboard with ticket statistics
